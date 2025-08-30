@@ -1,0 +1,19 @@
+{
+  "name": "com.prograymm.custompipertts",
+  "version": "0.1.0",
+  "displayName": "CustomPiperTTS",
+  "description": "Offline Text-to-Speech using Piper and Unity Inference Engine",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.ai.inference": "2.3.0"
+  },
+  "keywords": [
+    "tts",
+    "piper",
+    "inference"
+  ],
+  "author": {
+    "name": "ProdiJ",
+    "email": "prodij777@gmail.com"
+  }
+}
