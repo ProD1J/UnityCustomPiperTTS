@@ -1,7 +1,7 @@
 using UnityEngine;
 using CustomPiperTTS;
 
-namespace prograymm.custompipertts
+namespace prograymm.custompipertts.sample
 {
     public class TTSExample : MonoBehaviour
     {
@@ -28,4 +28,5 @@ namespace prograymm.custompipertts
             }
         }
     }
+
 }
