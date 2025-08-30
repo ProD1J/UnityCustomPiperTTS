@@ -3,9 +3,9 @@ using System.Runtime.InteropServices;
 using System.Text;
 using UnityEngine;
 
-namespace prograymm.custompipertts.runtime
+namespace CustomPiperTTS
 {
-    public static class eSpeakPhonemizer
+    public class eSpeakPhonemizer
     {
         [DllImport("espeak-ng", CallingConvention = CallingConvention.Cdecl)]
         private static extern void espeak_SetVoiceByName(string name);

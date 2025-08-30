@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace prograymm.custompipertts.runtime
+namespace CustomPiperTTS
 {
     public class PiperTTSManager : MonoBehaviour
     {
