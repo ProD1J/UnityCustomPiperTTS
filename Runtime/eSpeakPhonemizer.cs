@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using UnityEngine;
 
-namespace CustomPiperTTS
+namespace prograymm.custompipertts.runtime
 {
     public static class eSpeakPhonemizer
     {
@@ -34,4 +34,5 @@ namespace CustomPiperTTS
             }
         }
     }
+
 }
