@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace prograymm.custompipertts
+namespace prograymm.custompipertts.runtime
 {
     public class PiperTTSManager : MonoBehaviour
     {
@@ -117,4 +117,5 @@ namespace prograymm.custompipertts
             public Dictionary<string, int[]> phoneme_id_map;
         }
     }
+
 }
